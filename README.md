@@ -89,3 +89,11 @@ The serial monitor displays:
 * AI-based inventory prediction
 * Web dashboard monitoring
 
+# 👥 Project Team
+
+This project was developed as a team project by:
+SRI VIDHYA B
+SRI AMIRTHA VARSHINI S V
+SHRUTHI R
+SHAHIN ASHIKA K
+---
