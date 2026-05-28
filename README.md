@@ -29,9 +29,7 @@ The measured data is displayed on a 16x2 LCD screen and monitored through the Ar
 | RFID RC522       | Authentication module     |
 | 16x2 LCD Display | Output display            |
 | ESP8266 Module   | IoT communication         |
-| Buzzer           | Alert indication          |
 | Jumper Wires     | Circuit connections       |
-| Power Supply     | System power source       |
 
 
 
